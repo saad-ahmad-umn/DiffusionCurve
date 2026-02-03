@@ -1,11 +1,10 @@
-# DiffusionCurve
 # Diffusion of Innovation Curve
 
 An interactive visualization exploring Rogers' Diffusion of Innovation theory.
 
 ## Live Demo
 
-Visit: https://yourusername.github.io/your-repo-name/
+Visit: https://github.com/saad-ahmad-umn/DiffusionCurve
 
 ## Local Development
 ```bash
