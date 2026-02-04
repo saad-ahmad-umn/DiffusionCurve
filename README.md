@@ -1,4 +1,4 @@
-# Diffusion of Innovation Curve_
+# Diffusion of Innovation Curve
 
 An interactive visualization exploring Rogers' Diffusion of Innovation theory.
 
